@@ -1,4 +1,4 @@
-# Fashion AI 📸✨
+# Fashion AI 
 
 <div align="center">
 

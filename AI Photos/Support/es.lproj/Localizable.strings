@@ -1,0 +1,129 @@
+/* 
+  Localizable.strings
+  School Clock
+
+  Created by Никита Горьковой on 27.08.23.
+  
+*/
+
+// Home
+"buildYourFirstCollection" = "Crea tu primera colección";
+"addTheFirstPhoto" = "Agrega la primera foto y prueba cualquier cosa";
+"newOutfit" = "+ Nuevo atuendo";
+"myCollections" = "Mis colecciones";
+"mensCollections" = "Colecciones de hombre";
+"womensCollections" = "Colecciones de mujer";
+
+// Shared
+"home" = "Inicio";
+"outFit" = "OutFit";
+"hairstyle" = "Peinado";
+
+// PhotoSelection
+"takeYourPhoto" = "Toma tu foto";
+"orImportFromTheGallery" = "o impórtala desde la galería";
+"importFromGallery" = "Importar desde galería";
+"takeAPhoto" = "Tomar una foto";
+
+// OutFitAndHair
+"virtualTryOn" = "Prueba virtual";
+"hairstyle" = "Peinado";
+"womens" = "Mujer";
+"mens" = "Hombre";
+"all" = "Todos";
+"mensCollection" = "Colección de hombre";
+"womansCollection" = "Colección de mujer";
+"casual" = "Casual";
+
+// Crop
+"letsGo" = "Vamos";
+
+// ChooseCategory
+"lastStep" = "Último paso";
+"chooseCategory" = "Elige una categoría";
+"party" = "Fiesta";
+"formal" = "Formal";
+"travel" = "Viaje";
+"special" = "Especial";
+"casual" = "Casual";
+"work" = "Trabajo";
+"daily" = "Diario";
+"sport" = "Deporte";
+"date" = "Cita";
+"continue" = "Continuar";
+
+// Result
+"result" = "Resultado";
+"stylingIdeas" = "Ideas de estilo";
+"saveToGallery" = "Guardar en galería";
+"moreIdeas" = "Más ideas";
+
+// EnlargedPhoto
+"holdToSeeOriginal" = "Mantén presionado para ver la versión original";
+
+// Collection
+"delete" = "Eliminar";
+
+// History
+"history" = "Historial";
+"today" = "Hoy";
+"yesterday" = "Ayer";
+"daysAgo" = "días atrás";
+
+// Onboarding
+"ideasForYourImage" = "Ideas para tu imagen ";
+"withAI" = "con IA";
+"tryDifferent" = "Prueba diferentes ";
+"trendyStyles" = "estilos de moda";
+"GetAllApplication" = "Obtén acceso completo a la aplicación y ";
+"getStarted" = "comienza";
+"_1Month" = "1 mes";
+"_3dayFreeTrial" = "3 días de prueba gratis";
+"than89Month" = "(luego $4.99/mes)";
+"than" = "(luego $";
+"skip" = "Saltar";
+
+// Saved
+"saved" = "Guardado";
+"outFits" = "OutFits";
+"hairstyles" = "Peinados";
+"repeat" = "Repetir";
+
+// Paywall
+"getFullAssess" = "Obtener acceso completo";
+"unlimitedGenerations" = "Generaciones ilimitadas";
+"hdPhotoQuality" = "Calidad de foto HD";
+"noWatermark" = "Sin marca de agua";
+"restore" = "Restaurar";
+"terms" = "Términos";
+"privacy" = "Privacidad";
+"_1Month" = "1 mes";
+"_1Year" = "1 año";
+"freeTrial" = "3 días gratis";
+"than" = "(luego ";
+"month" = " /mes)";
+"year" = " /año)";
+
+// Settings
+"saved" = "Guardado";
+"languages" = "Idiomas";
+"rateApp" = "Calificar App";
+"privacyPolicy" = "Política de privacidad";
+"termsOfUse" = "Términos de uso";
+
+// Languages
+"selectLanguage" = "Seleccionar idioma";
+"english" = "Inglés";
+"russian" = "Ruso";
+"german" = "Alemán";
+"spanish" = "Español";
+"french" = "Francés";
+"select" = "Seleccionar";
+"exit" = "Salir";
+
+// NewCollection
+"newCollection" = "Nueva colección";
+"collectionTitle" = "Título de la colección";
+"typeHere" = "Escribe aquí..";
+"fromSaved" = "Desde guardados";
+"createNew" = "Crear nueva";

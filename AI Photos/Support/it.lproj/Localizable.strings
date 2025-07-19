@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  School Clock
+
+  Created by Никита Горьковой on 27.08.23.
+  
+*/
+
+// Home
+"buildYourFirstCollection" = "Crea la tua prima collezione";
+"addTheFirstPhoto" = "Aggiungi la prima foto e prova qualsiasi cosa";
+"newOutfit" = "+ Nuovo outfit";
+"myCollections" = "Le mie collezioni";
+"mensCollections" = "Collezioni da uomo";
+"womensCollections" = "Collezioni da donna";
+
+// Shared
+"home" = "Home";
+"outFit" = "OutFit";
+"hairstyle" = "Acconciatura";
+
+// PhotoSelection
+"takeYourPhoto" = "Scatta una foto";
+"orImportFromTheGallery" = "o importala dalla galleria";
+"importFromGallery" = "Importa dalla galleria";
+"takeAPhoto" = "Scatta una foto";
+
+// OutFitAndHair
+"virtualTryOn" = "Prova virtuale";
+"hairstyle" = "Acconciatura";
+"womens" = "Donna";
+"mens" = "Uomo";
+"all" = "Tutti";
+"mensCollection" = "Collezione da uomo";
+"womansCollection" = "Collezione da donna";
+"casual" = "Casual";
+
+// Crop
+"letsGo" = "Andiamo";
+
+// ChooseCategory
+"lastStep" = "Ultimo passo";
+"chooseCategory" = "Scegli categoria";
+"party" = "Festa";
+"formal" = "Formale";
+"travel" = "Viaggio";
+"special" = "Speciale";
+"casual" = "Casual";
+"work" = "Lavoro";
+"daily" = "Quotidiano";
+"sport" = "Sport";
+"date" = "Appuntamento";
+"continue" = "Continua";
+
+// Result
+"result" = "Risultato";
+"stylingIdeas" = "Idee di stile";
+"saveToGallery" = "Salva nella galleria";
+"moreIdeas" = "Altre idee";
+
+// EnlargedPhoto
+"holdToSeeOriginal" = "Tieni premuto per vedere la versione originale";
+
+// Collection
+"delete" = "Elimina";
+
+// History
+"history" = "Cronologia";
+"today" = "Oggi";
+"yesterday" = "Ieri";
+"daysAgo" = "giorni fa";
+
+// Onboarding
+"ideasForYourImage" = "Idee per la tua immagine ";
+"withAI" = "con l'IA";
+"tryDifferent" = "Prova diversi ";
+"trendyStyles" = "stili alla moda";
+"GetAllApplication" = "Ottieni l'accesso completo all'app e ";
+"getStarted" = "inizia";
+"_1Month" = "1 mese";
+"_3dayFreeTrial" = "3 giorni di prova gratuita";
+"than89Month" = "(poi $4.99/mese)";
+"skip" = "Salta";
+
+// Saved
+"saved" = "Salvati";
+"outFits" = "OutFit";
+"hairstyles" = "Acconciature";
+"repeat" = "Ripeti";
+
+// Paywall
+"getFullAssess" = "Ottieni l'accesso completo";
+"unlimitedGenerations" = "Generazioni illimitate";
+"hdPhotoQuality" = "Qualità foto HD";
+"noWatermark" = "Nessuna filigrana";
+"restore" = "Ripristina";
+"terms" = "Termini";
+"privacy" = "Privacy";
+"_1Month" = "1 mese";
+"_1Year" = "1 anno";
+"freeTrial" = "3 giorni di prova gratuita";
+"than" = "(poi ";
+"month" = " /mese)";
+"year" = " /anno)";
+
+// Settings
+"saved" = "Salvati";
+"languages" = "Lingue";
+"rateApp" = "Valuta app";
+"privacyPolicy" = "Informativa sulla privacy";
+"termsOfUse" = "Termini di utilizzo";
+
+// Languages
+"selectLanguage" = "Seleziona la lingua";
+"english" = "Inglese";
+"russian" = "Russo";
+"german" = "Tedesco";
+"spanish" = "Spagnolo";
+"french" = "Francese";
+"select" = "Seleziona";
+"exit" = "Esci";
+
+// NewCollection
+"newCollection" = "Nuova collezione";
+"collectionTitle" = "Titolo della collezione";
+"typeHere" = "Scrivi qui..";
+"fromSaved" = "Dai salvati";
+"createNew" = "Crea nuovo";

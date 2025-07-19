@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  School Clock
+
+  Created by Никита Горьковой on 27.08.23.
+  
+*/
+
+// Home
+"buildYourFirstCollection" = "Build your first collection";
+"addTheFirstPhoto" = "Add the first photo and try on anything";
+"newOutfit" = "+ New outfit";
+"myCollections" = "My collections";
+"mensCollections" = "Men's collections";
+"womensCollections" = "Women's collections";
+
+// Shared
+"home" = "Home";
+"outFit" = "OutFit";
+"hairstyle" = "Hairstyle";
+
+// PhotoSelection
+"takeYourPhoto" = "Take your photo";
+"orImportFromTheGallery"  = "or import from the gallery";
+"importFromGallery" = "Import from gallery";
+"takeAPhoto" = "Take a photo";
+
+// OutFitAndHair
+"virtualTryOn" = "Virtual try on";
+"hairstyle" = "Hairstyle";
+"womens" = "Women’s";
+"mens" = "Men’s";
+"all" = "All";
+"mensCollection" = "Men’s collection";
+"womansCollection" = "Woman’s collection";
+"casual" = "Casual";
+
+// Crop
+"letsGo" = "Let’s go";
+
+// ChooseCategory
+"lastStep" = "Last step";
+"chooseCategory" = "Choose category";
+"party" = "Party";
+"formal" = "Formal";
+"travel" = "Travel";
+"special" = "Special";
+"casual" = "Casual";
+"work" = "Work";
+"daily" = "Daily";
+"sport" = "Sport";
+"date" = "Date";
+"continue" = "Continue";
+
+// Result
+"result" = "Result";
+"stylingIdeas" = "Styling ideas";
+"saveToGallery" = "Save to gallery";
+"moreIdeas" = "More ideas";
+
+// EnlargedPhoto
+"holdToSeeOriginal" = "Hold to see original version";
+
+// Collection
+"delete" = "Delete";
+
+// History
+"history" = "History";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"daysAgo" = "days ago";
+
+// Onboarding
+"ideasForYourImage" = "Ideas for your image ";
+"withAI" = "with AI";
+"tryDifferent" = "Try different ";
+"trendyStyles" = "trendy styles";
+"GetAllApplication" = "Get all application access and ";
+"getStarted" = "get started";
+"_1Month" = "1 month";
+"_3dayFreeTrial" = "3-day free trial";
+"than89Month" = "(then $4.99 /month)";
+"skip" = "Skip";
+
+// Saved
+"saved" = "Saved";
+"outFits" = "OutFits";
+"hairstyles" = "Hairstyles";
+"repeat" = "Repeat";
+
+// Paywall
+"getFullAssess" = "Get Full Assess";
+"unlimitedGenerations" = "Unlimited generations";
+"hdPhotoQuality" = "HD photo quality";
+"noWatermark" = "No Watermark";
+"restore" = "Restore";
+"terms" = "Terms";
+"privacy" = "Privacy";
+"_1Month" = "1 month";
+"_1Year" = "1 year";
+"freeTrial" = "3-day free trial";
+"than" = "(then ";
+"month" = " /month)";
+"year" = " /year)";
+
+// Settings
+"saved" = "Saved";
+"languages" = "Languages";
+"rateApp" = "Rate App";
+"privacyPolicy" = "Privacy Policy";
+"termsOfUse" = "Terms of Use";
+
+// Languages
+"selectLanguage" = "Select language";
+"english" = "English";
+"russian" = "Russian";
+"german" = "German";
+"spanish" = "Spanish";
+"french" = "French";
+"select" = "Select";
+"exit" = "Exit";
+
+// NewCollection
+"newCollection" = "New collection";
+"collectionTitle" = "Collection title";
+"typeHere" = "Type here..";
+"fromSaved" = "From saved";
+"createNew" = "Create new";

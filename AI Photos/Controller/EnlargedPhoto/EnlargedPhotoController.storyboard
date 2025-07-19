@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Y6W-OH-hqX">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23084"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--EnlargedPhotoController-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="EnlargedPhotoController" title="EnlargedPhotoController" id="Y6W-OH-hqX" customClass="EnlargedPhotoController" customModule="AI_Photos" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="za1-UT-Hzm">
+                                <rect key="frame" x="16" y="63" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="8Rq-tp-fqA"/>
+                                    <constraint firstAttribute="width" constant="40" id="DSR-9W-FLc"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="BackWhite"/>
+                                <connections>
+                                    <action selector="backButtonTapped:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="Fu8-m5-sDR"/>
+                                </connections>
+                            </button>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kkf-5s-REc" customClass="CheckboxView" customModule="AI_Photos" customModuleProvider="target">
+                                <rect key="frame" x="348" y="70.666666666666671" width="25" height="25"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="Dg5-SO-FhS"/>
+                                    <constraint firstAttribute="width" constant="25" id="ow8-DN-r3c"/>
+                                </constraints>
+                            </view>
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3Ml-Sv-LCY">
+                                <rect key="frame" x="0.0" y="176" width="393" height="500"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="500" id="2d6-WC-Ttn"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RgY-lr-3xP">
+                                <rect key="frame" x="16" y="744" width="361" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" name="Background"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" name="GenLabel"/>
+                        <constraints>
+                            <constraint firstItem="kkf-5s-REc" firstAttribute="centerY" secondItem="za1-UT-Hzm" secondAttribute="centerY" id="4fy-Ro-SKa"/>
+                            <constraint firstItem="za1-UT-Hzm" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="16" id="4kv-VD-h84"/>
+                            <constraint firstItem="3Ml-Sv-LCY" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="6gF-Vj-HYj"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="3Ml-Sv-LCY" secondAttribute="trailing" id="7yt-WL-Jrj"/>
+                            <constraint firstItem="3Ml-Sv-LCY" firstAttribute="centerY" secondItem="5EZ-qb-Rvc" secondAttribute="centerY" id="96F-u5-iaV"/>
+                            <constraint firstItem="3Ml-Sv-LCY" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="Cnp-CQ-AkP"/>
+                            <constraint firstItem="RgY-lr-3xP" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="F4u-st-t5V"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="RgY-lr-3xP" secondAttribute="trailing" constant="16" id="HH2-CY-mXo"/>
+                            <constraint firstItem="za1-UT-Hzm" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="4" id="Q3T-IK-1nH"/>
+                            <constraint firstItem="RgY-lr-3xP" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="16" id="oI2-yx-bPY"/>
+                            <constraint firstAttribute="trailing" secondItem="kkf-5s-REc" secondAttribute="trailing" constant="20" id="u2f-bj-ZE1"/>
+                            <constraint firstAttribute="bottom" secondItem="RgY-lr-3xP" secondAttribute="bottom" constant="87" id="wfq-jk-kC3"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="checkbox" destination="kkf-5s-REc" id="3zo-fT-po1"/>
+                        <outlet property="holdLabel" destination="RgY-lr-3xP" id="s5h-9x-bEu"/>
+                        <outlet property="imageView" destination="3Ml-Sv-LCY" id="mGm-tg-N1i"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="37" y="-27"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="BackWhite" width="11.333333015441895" height="18.666666030883789"/>
+        <namedColor name="Background">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="GenLabel">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

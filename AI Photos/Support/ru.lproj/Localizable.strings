@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  School Clock
+
+  Created by Никита Горьковой on 27.08.23.
+  
+*/
+
+// Home
+"buildYourFirstCollection" = "Создайте свою первую коллекцию";
+"addTheFirstPhoto" = "Добавьте первое фото и примеряйте что угодно";
+"newOutfit" = "+ Новый образ";
+"myCollections" = "Мои коллекции";
+"mensCollections" = "Мужские коллекции";
+"womensCollections" = "Женские коллекции";
+
+// Shared
+"home" = "Главная";
+"outFit" = "OutFit";
+"hairstyle" = "Прическа";
+
+// PhotoSelection
+"takeYourPhoto" = "Сделайте фото";
+"orImportFromTheGallery" = "или импортируйте из галереи";
+"importFromGallery" = "Импорт из галереи";
+"takeAPhoto" = "Сделать фото";
+
+// OutFitAndHair
+"virtualTryOn" = "Виртуальная примерка";
+"hairstyle" = "Прическа";
+"womens" = "Женское";
+"mens" = "Мужское";
+"all" = "Все";
+"mensCollection" = "Мужская коллекция";
+"womansCollection" = "Женская коллекция";
+"casual" = "Повседневное";
+
+// Crop
+"letsGo" = "Поехали";
+
+// ChooseCategory
+"lastStep" = "Последний шаг";
+"chooseCategory" = "Выберите категорию";
+"party" = "Вечеринка";
+"formal" = "Официальный";
+"travel" = "Путешествие";
+"special" = "Особый случай";
+"casual" = "Повседневное";
+"work" = "Работа";
+"daily" = "На каждый день";
+"sport" = "Спорт";
+"date" = "Свидание";
+"continue" = "Продолжить";
+
+// Result
+"result" = "Результат";
+"stylingIdeas" = "Идеи для стиля";
+"saveToGallery" = "Сохранить в галерею";
+"moreIdeas" = "Больше идей";
+
+// EnlargedPhoto
+"holdToSeeOriginal" = "Удерживайте, чтобы увидеть оригинал";
+
+// Collection
+"delete" = "Удалить";
+
+// History
+"history" = "История";
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"daysAgo" = "дней назад";
+
+// Onboarding
+"ideasForYourImage" = "Идеи для вашего изображения ";
+"withAI" = "с помощью ИИ";
+"tryDifferent" = "Попробуйте разные ";
+"trendyStyles" = "модные стили";
+"GetAllApplication" = "Получите полный доступ к приложению и ";
+"getStarted" = "начните";
+"_1Month" = "1 месяц";
+"_3dayFreeTrial" = "3 дня бесплатно";
+"than89Month" = "(затем $4.99/мес)";
+"skip" = "Пропустить";
+
+// Saved
+"saved" = "Сохранено";
+"outFits" = "Образы";
+"hairstyles" = "Прически";
+"repeat" = "Повторить";
+
+// Paywall
+"getFullAssess" = "Получить полный доступ";
+"unlimitedGenerations" = "Неограниченные генерации";
+"hdPhotoQuality" = "HD-качество фото";
+"noWatermark" = "Без водяного знака";
+"restore" = "Восстановить";
+"terms" = "Условия";
+"privacy" = "Конфиденциальность";
+"_1Month" = "1 месяц";
+"_1Year" = "1 год";
+"freeTrial" = "3 дня бесплатно";
+"than" = "(затем ";
+"month" = " /мес)";
+"year" = " /год)";
+
+// Settings
+"saved" = "Сохранено";
+"languages" = "Языки";
+"rateApp" = "Оценить приложение";
+"privacyPolicy" = "Политика конфиденциальности";
+"termsOfUse" = "Условия использования";
+
+// Languages
+"selectLanguage" = "Выберите язык";
+"english" = "Английский";
+"russian" = "Русский";
+"german" = "Немецкий";
+"spanish" = "Испанский";
+"french" = "Французский";
+"select" = "Выбрать";
+"exit" = "Выход";
+
+// NewCollection
+"newCollection" = "Новая коллекция";
+"collectionTitle" = "Название коллекции";
+"typeHere" = "Введите здесь..";
+"fromSaved" = "Из сохраненного";
+"createNew" = "Создать новую";

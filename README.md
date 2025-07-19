@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Fashion AI Logo](AI%20Photos/Support/Assets.xcassets/AppIcon.appiconset/logo-6-29.png)
+![Fashion AI Logo](AI%20Photos/Support/Assets.xcassets/AppIcon.appiconset/logo-6-60@x2.png)
 
 **iOS приложение с ИИ для виртуальной примерки одежды и причесок**
 

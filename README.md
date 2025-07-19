@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Fashion AI Logo](AI%20Photos/Support/Assets.xcassets/AppIcon.appiconset/logo-6-1024.png)
+![Fashion AI Logo](AI%20Photos/Support/Assets.xcassets/AppIcon.appiconset/logo-6-29.png)
 
 **iOS приложение с ИИ для виртуальной примерки одежды и причесок**
 
@@ -61,7 +61,7 @@
 
 | Главный экран | Виртуальная примерка | Прически | Результаты |
 |---------------|----------------------|-----------|------------|
-| ![Главный](screenshots/home.png) | ![Примерка](screenshots/tryon.png) | ![Коллекции](screenshots/hairstyles.png) | ![Результаты](screenshots/results.png) |
+| ![Главный](screenshots/home.png) | ![Примерка](screenshots/tryon.png) | ![Коллекции](screenshots/hairstyles.png) | ![Результаты](screenshots/result.png) |
 
 </div>
 

@@ -9,7 +9,6 @@
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-13.0+-blue.svg)](https://developer.apple.com/ios/)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)](https://developer.apple.com/ios/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -165,7 +164,7 @@
 **Никита Горьковой**
 - **Email**: [HarkavyNikita@gmail.com]
 - **GitHub**: [@NikitaHarkavy]
-- **LinkedIn**: [https://www.linkedin.com/in/nikita-harkavy-5b8040305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nikita-harkavy-5b8040305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
 
 <div align="center">
 

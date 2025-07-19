@@ -57,13 +57,9 @@
 
 ## 📱 Скриншоты
 
-<div align="center">
-
 | Главный экран | Виртуальная примерка | Прически | Результаты |
 |---------------|----------------------|-----------|------------|
-| ![Главный](screenshots/home.png) | ![Примерка](screenshots/tryon.png) | ![Коллекции](screenshots/hairstyles.png) | ![Результаты](screenshots/result.png) |
-
-</div>
+| <img src="screenshots/home.png" width="200"/> | <img src="screenshots/tryon.png" width="200"/> | <img src="screenshots/hairstyles.png" width="200"/> | <img src="screenshots/result.png" width="200"/> |
 
 ---
 
